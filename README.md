@@ -1,7 +1,7 @@
 # Time-Stamp 🕒
 Time-stamp real time clock
 
-<p align="center" font-size="40px">
+<p align="center">
  Touch the Unix image to go to the app
 </p>
 
