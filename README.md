@@ -22,6 +22,20 @@ Written in:
 
 Libraries and Frameworks: JQuery AnimatedCSS WoW Animated
 
+# Dark Mode
+
+When you press the sun, the site activate the dark mode.
+
+# Multi-Lenguage
+
+When you press the flag, the site changes the lenguage 
+
+- Available lenguages:
+
+- English
+- Spanish
+
+
 
 <p align="center">
  <a><> with <3 by Bescri</a>
