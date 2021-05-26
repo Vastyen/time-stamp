@@ -32,7 +32,7 @@ When you press the sun, the site activate the dark mode.
 
 When you press the flag, the site changes the lenguage 
 
-- Available lenguages:
+**Available lenguages:**
 
 - English
 - Spanish
