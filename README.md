@@ -1,5 +1,5 @@
 # Time-Stamp 🕒
-Time-stamp real time clock
+Time-stamp **real time** clock
 
 <p align="center">
  Touch the Unix image to go to the app
