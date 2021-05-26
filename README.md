@@ -22,5 +22,5 @@ Libraries and Frameworks: JQuery AnimatedCSS WoW Animated
 
 
 <p align="center">
- <a><> with <3 by Bastie</a>
+ <a><> with <3 by Bescri</a>
 </p>
