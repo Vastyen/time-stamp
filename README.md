@@ -17,10 +17,11 @@ The unix time stamp is a way to track time as a running total of seconds. This c
  <img src="https://i.ibb.co/fdLL88C/Screenshot-from-2021-05-26-12-37-23.png" alt="Seconds"/>
 </p>
 
+# Stack 
 
-Written in:
-
-• JavaScript HTML5 CSS3 
+• JavaScript
+• HTML5
+• CSS3
 
 Libraries and Frameworks: JQuery AnimatedCSS WoW Animated
 
