@@ -25,7 +25,11 @@ The unix time stamp is a way to track time as a running total of seconds. This c
 
 • CSS3
 
-Libraries and Frameworks: JQuery AnimatedCSS WoW Animated
+• JQuery 
+
+• Animated CSS 
+
+• wow.js
 
 ------------
 
