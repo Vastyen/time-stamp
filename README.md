@@ -24,6 +24,8 @@ Written in:
 
 Libraries and Frameworks: JQuery AnimatedCSS WoW Animated
 
+------------
+
 # Dark Mode
 
 When you press the sun, the site activate the dark mode.
