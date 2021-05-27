@@ -40,7 +40,3 @@ When you press the flag, the site changes the lenguage
 - Spanish
 
 
-
-<p align="center">
- <a><> with <3 by Bescri</a>
-</p>
