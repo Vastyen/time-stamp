@@ -35,13 +35,13 @@ The unix time stamp is a way to track time as a running total of seconds. This c
 
 # Dark Mode
 
-When you press the sun, the site activate the dark mode.
+When you press the moon, the site activate the dark mode.
 
 # Multi-Lenguage
 
-When you press the flag, the site changes the lenguage.
+When you press the language, the site changes the language.
 
-**Available lenguages:**
+**Available languages:**
 
 - English
 - Spanish
