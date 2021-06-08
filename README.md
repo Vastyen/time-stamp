@@ -3,6 +3,8 @@ Time-stamp **real time** clock
 
 <p align="center">
  Touch the Unix image to go to the app
+ 
+  https://bastie.me/time-stamp/
 </p>
 
 [![N|Solid](https://logodix.com/logo/1102577.png)](https://escribano.tech/time-stamp/)
