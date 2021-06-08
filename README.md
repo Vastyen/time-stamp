@@ -3,7 +3,6 @@ Time-stamp **real time** clock
 
 <p align="center">
  Touch the Unix image to go to the app
- 
   https://bastie.me/time-stamp/
 </p>
 
