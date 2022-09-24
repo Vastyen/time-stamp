@@ -3,7 +3,7 @@ Time-stamp **real time** clock
 
 <p align="center">
 
-[N|Solid](https://logodix.com/logo/1102577.png)
+![N|Solid](https://logodix.com/logo/1102577.png)
 </p>
 
 ## What is the unix time stamp?
