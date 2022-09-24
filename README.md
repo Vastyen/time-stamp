@@ -2,14 +2,9 @@
 Time-stamp **real time** clock
 
 <p align="center">
- Touch the Unix image to go to the app
 
+[![N|Solid](https://logodix.com/logo/1102577.png)]
 </p>
-<p align="center">
- https://bastie.me/time-stamp/</p>
-
-[![N|Solid](https://logodix.com/logo/1102577.png)](https://bastie.me/time-stamp/)
-
 
 ## What is the unix time stamp?
 
