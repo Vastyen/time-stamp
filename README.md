@@ -16,17 +16,11 @@ The unix time stamp is a way to track time as a running total of seconds. This c
 </p>
 
 # Stack 
-
 • JavaScript
-
 • HTML5
-
 • CSS3
-
 • JQuery 
-
 • Animated CSS 
-
 • wow.js
 
 ------------
